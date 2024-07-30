@@ -1,5 +1,3 @@
-# Steam-protect-user-account-in-Mobile.-IOS-ANDROID
-Steam protect user account in Mobile. IOS/ANDROID
 ## It's done!
 
 **The Steam company has updated its application, now the application has support for multi-accounts, which loses the meaning of our** ([@Ch-Tima](https://github.com/Ch-Tima) [@MaximKolpak](https://github.com/MaximKolpak) [@An0ncer](https://github.com/AN0NCER))<b> application </b>
